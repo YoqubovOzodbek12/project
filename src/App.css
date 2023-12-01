@@ -2,14 +2,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    position: fixed;
     width: 100%;
     background-image: url("./img/pexels-gül-işık-3804409.jpg");
+    background-attachment: fixed;
     background-size: cover; /* Adjust as needed */
     background-repeat: no-repeat; /* Adjust as needed */
     height: 100%; /* Set the desired height */
     background-color: black;
-    
+
 }
 
 .container {
